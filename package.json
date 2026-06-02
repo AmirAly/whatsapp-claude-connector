@@ -1,6 +1,6 @@
 {
   "name": "whatsapp-claude-connector",
-  "version": "0.1.0",
+  "version": "0.1.5",
   "description": "A local MCP connector to read, summarize and send WhatsApp messages from Claude",
   "main": "dist/index.js",
   "bin": {
@@ -21,7 +21,7 @@
     "connector",
     "ai"
   ],
-  "author": "AmirAly",
+  "author": "Amir Aboueesa",
   "license": "MIT",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.0.0",
@@ -40,6 +40,10 @@
     "ts-node": "^10.9.2",
     "typescript": "^5.4.5"
   },
+  "files": [
+    "dist/**/*",
+    "README.md"
+  ],
   "engines": {
     "node": ">=18.0.0"
   }
