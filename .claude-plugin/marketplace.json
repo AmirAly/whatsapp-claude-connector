@@ -22,9 +22,15 @@
       "homepage": "https://github.com/AmirAly/whatsapp-claude-connector",
       "repository": "https://github.com/AmirAly/whatsapp-claude-connector",
       "license": "MIT",
-      "keywords": ["whatsapp", "messaging", "mcp", "connector", "arabic", "egypt"],
-      "category": "messaging",
-      "tags": ["whatsapp", "chat", "send-message", "read-messages"]
+      "keywords": [
+        "whatsapp",
+        "messaging",
+        "mcp",
+        "connector"
+      ],
+      "install": {
+        "command": "/plugin marketplace add AmirAly/whatsapp-claude-connector"
+      }
     }
   ]
 }
