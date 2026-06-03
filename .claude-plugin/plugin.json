@@ -1,0 +1,18 @@
+{
+  "name": "whatsapp-claude",
+  "version": "0.1.7",
+  "description": "Connect Claude to your personal WhatsApp — read chats, summarize conversations, and send messages.",
+  "author": {
+    "name": "Amir Aboueesa",
+    "email": "a.a.aboueeaa@gmail.com"
+  },
+  "homepage": "https://github.com/AmirAly/whatsapp-claude-connector",
+  "repository": "https://github.com/AmirAly/whatsapp-claude-connector",
+  "license": "MIT",
+  "keywords": [
+    "whatsapp",
+    "messaging",
+    "mcp",
+    "connector"
+  ]
+}
