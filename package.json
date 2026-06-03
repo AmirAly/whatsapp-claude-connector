@@ -1,6 +1,6 @@
 {
   "name": "whatsapp-claude-connector",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "description": "A local MCP connector to read, summarize and send WhatsApp messages from Claude",
   "main": "dist/index.js",
   "bin": {
