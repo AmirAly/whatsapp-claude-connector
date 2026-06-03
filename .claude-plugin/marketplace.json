@@ -1,0 +1,30 @@
+{
+  "name": "whatsapp-claude",
+  "description": "WhatsApp integration plugin for Claude — read chats, summarize conversations, and send messages.",
+  "owner": {
+    "name": "Amir Aboueesa",
+    "email": "a.a.aboueeaa@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "whatsapp-claude",
+      "displayName": "WhatsApp for Claude",
+      "source": {
+        "source": "github",
+        "repo": "AmirAly/whatsapp-claude-connector"
+      },
+      "description": "Connect Claude to your personal WhatsApp — read chats, summarize conversations, and send messages. Scan a QR code once; auto-connects on every restart.",
+      "version": "0.1.7",
+      "author": {
+        "name": "Amir Aboueesa",
+        "email": "a.a.aboueeaa@gmail.com"
+      },
+      "homepage": "https://github.com/AmirAly/whatsapp-claude-connector",
+      "repository": "https://github.com/AmirAly/whatsapp-claude-connector",
+      "license": "MIT",
+      "keywords": ["whatsapp", "messaging", "mcp", "connector", "arabic", "egypt"],
+      "category": "messaging",
+      "tags": ["whatsapp", "chat", "send-message", "read-messages"]
+    }
+  ]
+}
